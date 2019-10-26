@@ -1,29 +1,12 @@
-.bmContainer {
-  margin: 20px;
-  border: 15px solid green;
-  padding: 10px;
-}
-
-.largefont {
-  color: #0066FF;
-  font-family:arial;
-  font-size: 16px;
-}
-
-.large {
-  margin: 10px;
-  border: 1px solid #ff6666;
-  padding: 10px;
-  color: #00FF00;
-  font-family:arial;
-  font-size: 24pt;
-}
-
-.spacer10px {
-  margin: 10px;
-}
-
-.pk_box {
+.photo {
+  margin: 5px;
   border: 1px solid black;
-  padding: 5px;
+  padding: 1px;
+  width: 200px;
+  height: 120px;
 }
+.photo img {
+  width: 100%;
+  height: auto;
+}
+
